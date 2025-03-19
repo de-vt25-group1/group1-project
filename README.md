@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
    ```
 3. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   use pip to install required dependencies
    ```
 4. **Run Jupyter Notebook**:
    ```bash
